@@ -1,6 +1,6 @@
 ## Using React + TypeScript + R3F
 
-![Example Image](src/assets/images/r3f.png)
+![Demo Image](./src/images/r3f.png)
 
 This project is built using React and TypeScript, combined with R3F (React Three Fiber) to create interactive 3D applications.
 
